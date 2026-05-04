@@ -1,0 +1,5 @@
+.terraform
+.terraform.lock.hcl
+terraform.tfstateec2/.git-backup/
+ec2/.terraform/providers/
+ec2/terraform.tfstate
